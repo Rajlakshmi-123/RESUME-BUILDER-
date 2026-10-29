@@ -11,6 +11,7 @@ function App() {
     <>
        
        <h1> hello world</h1>
+       <h2> hello world 2 </h2>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
