@@ -1,4 +1,4 @@
-# Interview AI YT
+# BUILD YOUR REUME 
 
 A full-stack interview preparation and resume optimization app that helps users generate AI-powered interview reports and downloadable resume PDFs based on their resume, self-description, and job description.
 
